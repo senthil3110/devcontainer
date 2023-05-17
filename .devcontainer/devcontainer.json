@@ -1,0 +1,12 @@
+// 
+
+{
+	"image": "localhost/dev-image:latest",
+  
+	"customizations": {
+	  "vscode": {
+		"extensions": ["streetsidesoftware.code-spell-checker","eamodio.gitlens"]
+	  }
+	}
+	// "forwardPorts": [3000]
+  }
